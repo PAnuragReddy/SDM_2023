@@ -1,1 +1,1 @@
-Repository for Course Website of the course Scalable Data Mining (CS60021) 
+Repository for the Course Scalable Data Mining (CS60021) 
